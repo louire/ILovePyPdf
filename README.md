@@ -42,21 +42,21 @@ pip install PyPDF2`
 `python pdf_compressor.py`
 
 ### Example Output
+```bash
+Processing 5 pages...`
+Compressed page 1/5`
+Compressed page 2/5`
+Compressed page 3/5`
+Compressed page 4/5`
+Compressed page 5/5`
+Saving compressed file...`
 
-`Processing 5 pages...`
-`Compressed page 1/5`
-`Compressed page 2/5`
-`Compressed page 3/5`
-`Compressed page 4/5`
-`Compressed page 5/5`
-`Saving compressed file...`
-
-`Compression completed successfully!`
-`Original size: 1024.55 KB`
-`Compressed size: 428.73 KB`
-`Reduction: 58.2%`
-`Processing time: 2.34 seconds`
-
+Compression completed successfully!`
+Original size: 1024.55 KB`
+Compressed size: 428.73 KB`
+Reduction: 58.2%`
+Processing time: 2.34 seconds`
+```
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
