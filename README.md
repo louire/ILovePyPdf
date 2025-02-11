@@ -1,4 +1,4 @@
-# ILovePyPdf
+# ILovePyPdf🐍❤️
 
 A Python utility for compressing PDF files while maintaining reasonable quality. This tool provides a simple yet effective way to reduce PDF file sizes for easier sharing and storage.
 
@@ -18,8 +18,8 @@ A Python utility for compressing PDF files while maintaining reasonable quality.
 
 ### 1. Clone this repository:
 ```bash
-git clone https://github.com/louire/ILovePyPdf.git`
-cd ILovePyPdf`
+git clone https://github.com/louire/ILovePyPdf.git
+cd ILovePyPdf
 ```
 ### 2. Install required dependencies:
 ```bash
